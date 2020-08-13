@@ -1,5 +1,0 @@
-Just to test ls-files
-a2
-
-asd123
-team 7
