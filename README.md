@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 
 ## Introduction
 This is the intro into ..
+
+## Colateral damage stage
