@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 This is the intro into ..
 
 ## Colateral damage stage
+
+Some modes to work
+Something missing
