@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Purpuros
+There is no purpose required to do something
 
 Sample website with plenty of files for demos
 ## Curse of neither world
