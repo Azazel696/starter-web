@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Gab	G <role> decent <twitter>
 
 # THANKS
 
-    <name>
+    <666>
 
 # TECHNOLOGY COLOPHON
 
