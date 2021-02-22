@@ -13,6 +13,8 @@ This is the intro into ..
 
 ## Colateral damage stage
 
+Nothing to make for this
+
 Some modes to work
 Something missing
 
