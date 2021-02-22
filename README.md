@@ -14,6 +14,7 @@ This is the intro into ..
 ## Colateral damage stage
 
 Nothing to make for this
+After rebase from develop
 
 Some modes to work
 Something missing
